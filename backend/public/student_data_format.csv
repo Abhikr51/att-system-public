@@ -1,0 +1,6 @@
+sl_no,first_name,middle_name,last_name,dob,gender,father_name,guardian_name,alternate_phone,course,semester,category,address,phone,email
+1,fname1,,lname1,08-05-2000,Male,ftname1,ftname1,,MCA,I,gen,abchjvsshbvhb,1234567892,stu1@gmail.com
+2,fname2,mname2,lname2,08-05-2000,Male,ftname2,ftname2,0000000000,MSC,II,gen,abchjvsshbvhb,1234567893,stu2@gmail.com
+3,fname3,,lname3,08-05-2000,Female,ftname3,ftname3,,MCA,III,obc -a,abchjvsshbvhb,1234567894,stu3@gmail.com
+4,fname4,mname4,lanme4,08-05-2000,Male,ftname4,ftname4,1234566543,MCA,III,st,abchjvsshbvhb,1234567895,stu4@gmail.com
+5,fname5,,lname5,08-05-2000,Female,ftname5,ftname5,,MDS,I,sc,abchjvsshbvhb,1234567896,stu5@gmail.com
