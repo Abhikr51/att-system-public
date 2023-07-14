@@ -112,12 +112,10 @@ ___
 ___
 
 ## Attend Me application screenshots 
-| | |
-| ---------------------- | ---------------------- |
-| ![image](https://raw.githubusercontent.com/Abhikr51/att-system-public/main/screenshots/1.jpg) | ![imaeg](https://raw.githubusercontent.com/Abhikr51/att-system-public/main/screenshots/2.jpg) |
-| ![image](https://raw.githubusercontent.com/Abhikr51/att-system-public/main/screenshots/3.jpg) | ![imaeg](https://raw.githubusercontent.com/Abhikr51/att-system-public/main/screenshots/4.jpg) |
-| ![image](https://raw.githubusercontent.com/Abhikr51/att-system-public/main/screenshots/5.jpg) | |
-
+| | | |
+| ---------------------- | ---------------------- | ---------------------- |
+| ![image](https://raw.githubusercontent.com/Abhikr51/att-system-public/main/screenshots/1.jpg) | ![imaeg](https://raw.githubusercontent.com/Abhikr51/att-system-public/main/screenshots/2.jpg) | ![image](https://raw.githubusercontent.com/Abhikr51/att-system-public/main/screenshots/3.jpg) | 
+| ![imaeg](https://raw.githubusercontent.com/Abhikr51/att-system-public/main/screenshots/4.jpg) | ![imaeg](https://raw.githubusercontent.com/Abhikr51/att-system-public/main/screenshots/5.jpg) |
 
 
 
