@@ -1,7 +1,7 @@
 // const base = "http://13.231.246.144:8001"
 // const base = "http://192.168.29.39" //home
 // const base = "http://192.168.0.184" //Mess
-const base = "http://192.168.137.48" //Me
+const base = "http://192.168.29.237" //Me
 // const base = "http://192.168.2.37" //CS 1st Floor
 // const base = "http://192.168.142.48" //RM+
 // const base = "http://localhost:8000"

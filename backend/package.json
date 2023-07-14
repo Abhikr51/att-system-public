@@ -8,7 +8,7 @@
     "start": "nodemon index.js"
   },
   "author": "Abhijit Kumar",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
     "colors": "^1.4.0",

@@ -2,6 +2,8 @@
   "name": "att-system",
   "version": "0.1.0",
   "private": true,
+  "author": "Abhijit Kumar",
+  "license": "MIT",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
