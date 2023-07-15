@@ -91,32 +91,33 @@ FRONTEND_QR_SCAN_ENDPOINT = "/scanme"
 
 ## Screenshots
 
-![Screenshot](https://abhikr51.github.io/att-system-public/screenshots/login.png)
+![Screenshot](https://abhikr51.github.io/screenshots/login.png)
 ___
-![Screenshot](https://abhikr51.github.io/att-system-public/screenshots/dashboard.png)
+![Screenshot](https://abhikr51.github.io/screenshots/dashboard.png)
 ___
-![Screenshot](https://abhikr51.github.io/att-system-public/screenshots/show-attendance.png)
+![Screenshot](https://abhikr51.github.io/screenshots/show-attendance.png)
 ___
-![Screenshot](https://abhikr51.github.io/att-system-public/screenshots/students.png)
+![Screenshot](https://abhikr51.github.io/screenshots/students.png)
 ___
-![Screenshot](https://abhikr51.github.io/att-system-public/screenshots/teachers.png)
+![Screenshot](https://abhikr51.github.io/screenshots/teachers.png)
 ___
-![Screenshot](https://abhikr51.github.io/att-system-public/screenshots/add-data.png)
+![Screenshot](https://abhikr51.github.io/screenshots/add-data.png)
 ___
-![Screenshot](https://abhikr51.github.io/att-system-public/screenshots/Routine.png)
+![Screenshot](https://abhikr51.github.io/screenshots/Routine.png)
 ___
-![Screenshot](https://abhikr51.github.io/att-system-public/screenshots/upload-routine.png)
+![Screenshot](https://abhikr51.github.io/screenshots/upload-routine.png)
 ___
-![Screenshot](https://abhikr51.github.io/att-system-public/screenshots/mail-content.png)
+![Screenshot](https://abhikr51.github.io/screenshots/mail-content.png)
 ___
-![Screenshot](https://abhikr51.github.io/att-system-public/screenshots/qr-code.png)
+![Screenshot](https://abhikr51.github.io/screenshots/qr-code.png)
 ___
 
 ## Attend Me application screenshots 
 | | | |
 | ---------------------- | ---------------------- | ---------------------- |
-| ![image](https://abhikr51.github.io/att-system-public/screenshots/1.jpg) | ![imaeg](https://abhikr51.github.io/att-system-public/screenshots/2.jpg) | ![image](https://abhikr51.github.io/att-system-public/screenshots/3.jpg) | 
-| ![imaeg](https://abhikr51.github.io/att-system-public/screenshots/4.jpg) | ![imaeg](https://abhikr51.github.io/att-system-public/screenshots/5.jpg) |
+| ![image](https://abhikr51.github.io/screenshots/1.jpg) | ![imaeg](https://abhikr51.github.io/screenshots/2.jpg) | ![image](https://abhikr51.github.io/screenshots/3.jpg) | 
+| ![imaeg](https://abhikr51.github.io/screenshots/4.jpg) | ![imaeg](https://abhikr51.github.io/screenshots/5.jpg) |
+
 
 
 
